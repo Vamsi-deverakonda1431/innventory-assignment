@@ -26,7 +26,7 @@ script.js         → JavaScript logic
 assets/           → Images or static files (if any)
 ▶️ How to Run Locally
 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Vamsi-deverakonda1431/innventory-assignment/tree/main)
 2. Open the project folder
 cd your-repo-name
 3. Run the application
@@ -54,7 +54,7 @@ Improve UI with frameworks like React
 👨‍💻 Author
 
 Vamsi Deverakonda
-GitHub: https://github.com/your-username
+GitHub: [https://github.com/your-username](https://github.com/Vamsi-deverakonda1431/innventory-assignment/tree/main)
 
 📌 Deployment
 Frontend: Vercel
